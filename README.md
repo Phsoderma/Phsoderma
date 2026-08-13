@@ -12,6 +12,7 @@
 
 </div>
 
+<!-- 
 ---
 
 ## 🙋‍♂️ About Me
@@ -22,6 +23,8 @@
 - ⚡ Fun Fact: **[Hal unik atau hobi kamu, contoh: Suka mencoba teknologi baru dan ngoding sambil dengar musik]**
 
 ---
+-->
+
 
 ## 🛠️ Tech Stack & Tools
 

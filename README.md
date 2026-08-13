@@ -40,6 +40,7 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<!-- 
 ---
 
 ## 📊 GitHub Stats
@@ -67,6 +68,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=[USERNAME-GITHUB-KAMU].[USERNAME-GITHUB-KAMU])
 
 </div>
+
+-->
 
 <!-- URL LINKS -->
 [portfolio-url]: https://[website-portfolio-kamu].com

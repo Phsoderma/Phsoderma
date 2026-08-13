@@ -1,10 +1,10 @@
-# Hi there, I'm [Nama Kamu] 👋
+# Hi there, I'm Dean 👋
 
 <div align="center">
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40)
 
-### 🚀 [Peran Kamu, contoh: Frontend & Mobile Developer]
+### 🚀 Frontend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=61DAFB)][portfolio-url]

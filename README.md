@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-frederic-wijaya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=61DAFB)][portfolio-url]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deanbaturaja23@gmail.com)
 
 </div>
 
